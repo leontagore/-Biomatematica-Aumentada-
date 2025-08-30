@@ -1,0 +1,21 @@
+/
+├── README.md
+├── LICENSE
+├── docs/
+│   ├── Ficha_Tecnica_Prototipo.md
+│   ├── Descripcion_Experiencia.md
+│   └── Reflexion_Critica.md
+├── data/
+│   └── raw/
+│       └── COVID-19_Mexico.csv
+├── src/
+│   ├── modelado/
+│   │   └── modelo_SIR_ia.py
+│   └── analisis/
+│       └── analisis_resultados.ipynb
+├── presentations/
+│   └── presentacion_final.pptx
+└── assets/
+    ├── prompts_clave.md
+    └── capturas_pantalla/
+        └── interaccion_ia_1.png
