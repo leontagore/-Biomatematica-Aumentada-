@@ -21,7 +21,7 @@ assets/: Recursos adicionales como prompts de IA y capturas de pantalla.
 Cómo Usar el Repositorio
 Si eres un investigador, profesor o estudiante interesado en la intersección de la IA y la ciencia, puedes:
 
-Clonar este repositorio: git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+Clonar este repositorio: git clone https://github.com/leontagore/-Biomatematica-Aumentada
 
 Explorar la documentación: Comienza leyendo los archivos en la carpeta docs/ para entender la metodología y los objetivos.
 
